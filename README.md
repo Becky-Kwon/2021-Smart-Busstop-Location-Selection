@@ -11,3 +11,13 @@
 ` Matplotlib
 - Seaborn
 
+## ✨ Report
+![](https://github.com/Becky-Kwon/2021-Smart-Busstop-Location-Selection/blob/master/img/1.png?raw=true)
+![](https://github.com/Becky-Kwon/2021-Smart-Busstop-Location-Selection/blob/master/img/2.png?raw=true)
+![](https://github.com/Becky-Kwon/2021-Smart-Busstop-Location-Selection/blob/master/img/3.png?raw=true)
+![](https://github.com/Becky-Kwon/2021-Smart-Busstop-Location-Selection/blob/master/img/4.png?raw=true)
+![](https://github.com/Becky-Kwon/2021-Smart-Busstop-Location-Selection/blob/master/img/5.png?raw=true)
+![](https://github.com/Becky-Kwon/2021-Smart-Busstop-Location-Selection/blob/master/img/6.png?raw=true)
+![](https://github.com/Becky-Kwon/2021-Smart-Busstop-Location-Selection/blob/master/img/7.png?raw=true)
+![](https://github.com/Becky-Kwon/2021-Smart-Busstop-Location-Selection/blob/master/img/8.png?raw=true)
+![](https://github.com/Becky-Kwon/2021-Smart-Busstop-Location-Selection/blob/master/img/9.png?raw=true)
